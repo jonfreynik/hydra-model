@@ -1,2 +1,3 @@
-# JSBoiler
-Boiler Plate Front End JavaScript
+# hydra-model
+
+Used to make setting up CRUD operations easier. 
